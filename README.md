@@ -37,7 +37,7 @@ Account No: C456, Balance: 2000, Overdraft Limit: 5000
 
 ## Author
 
-[Your Name]
+Musaddiq Adnan Multani
 
 ## License
 
